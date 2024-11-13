@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://emergencygaragedoor.chikegaragedoorrepair.xyz/sitemap_index.xml
